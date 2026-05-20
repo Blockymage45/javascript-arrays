@@ -1,1 +1,1 @@
-conts notas = [10, 6, 8 ]
+const notas = [10, 6, 8 ]
